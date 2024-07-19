@@ -1,6 +1,7 @@
 @import url("https://use.typekit.net/mux6fiv.css");
 
 body {
+  height: 100vh;
   margin: 0;
   font-family: "halcom", sans-serif !important;
   -webkit-font-smoothing: antialiased;
