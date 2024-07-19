@@ -53,9 +53,13 @@ header h6 {
 }
 
 .content_wrap {
-  height: 100%;
-  background-color: #eaeae8;
+  height: 100vh;
   border-radius: 2rem 2rem 0 0;
+}
+
+.container {
+  padding-bottom: 2rem;
+  background-color: #eaeae8;
 }
 
 .content_wrap .container h2 {
